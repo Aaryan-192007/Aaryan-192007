@@ -14,11 +14,11 @@
 
 - 👨‍💻 My portfolio : [https://aaryan-192007.github.io/](https://aaryan-192007.github.io/)
 
-- 💬 Ask me about **Python ,Javascript,Node.js ,C++,C#,HTML,CSS**
+- 💬 Ask me about : **Python ,Javascript,Node.js ,C++,C#,HTML,CSS**
 
-- 📫 How to reach me **aaryankumar290412@gmail.com**
+- 📫 Reach me : **aaryankumar290412@gmail.com**
 
-- ⚡ Fun fact **I love playing games and I'm a guitarist**
+- ⚡ Fun fact : **I love playing games and I'm a guitarist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
