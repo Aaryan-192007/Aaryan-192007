@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryan-192007&label=Profile%20views&color=0e75b6&style=flat" alt="aaryan-192007" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaryan-192007&show_icons=true&locale=en&theme=jolly" alt="aaryan-192007" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aaryan-192007&show_icons=true&locale=en&theme=jolly" alt="aaryan-192007" /></p>
 
 - 🔭 I’m currently working on **WikiBot**
 
