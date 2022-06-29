@@ -7,7 +7,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aaryan-192007&show_icons=true&theme=jolly" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryan-192007&theme=jolly" />
 </p>
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan-192007&theme=jolly" /></p>
+<p> <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan-192007&theme=jolly" /></p>
 
 - 🔭 I’m currently working on **WikiBot**
 
