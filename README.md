@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryan-192007&label=Profile%20views&color=0e75b6&style=flat" alt="aaryan-192007" /> </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aaryan-192007&show_icons=true&theme=jolly" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryan-192007&theme=jolly" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aaryan-192007&show_icons=true&theme=moltack" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryan-192007&theme=moltack" />
 </p>
 
 - 🔭 I’m currently working on **WikiBot**
