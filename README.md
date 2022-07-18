@@ -5,7 +5,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aaryan-192007&show_icons=true&theme=moltack" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryan-192007&theme=moltack" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryan-192007&theme=gruvbox_light" />
 </p>
 
 - 🔭 I’m currently working on **WikiBot**
