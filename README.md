@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aaryan</h1>
-<h3 align="center">I'm a 14 year old techie from India . My interests include Programming, Robotics, AI ML and a lot more</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryan-192007&label=Profile%20views&color=0e75b6&style=flat" alt="aaryan-192007" /> </p>
 
