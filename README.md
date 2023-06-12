@@ -13,7 +13,7 @@
 
 - 👨‍💻 My portfolio : [https://aaryan-192007.github.io/](https://aaryan-192007.github.io/)
 
-- 💬 Ask me about : **Python ,Javascript,Node.js ,C++,C#,HTML,CSS**
+- 💬 Ask me about : **Python**
 
 - 📫 Reach me : **aaryankumar290412@gmail.com**
 
